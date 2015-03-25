@@ -1,0 +1,23 @@
+{
+  "name": "nz_general_electorate_geojson",
+  "version": "1.0.0",
+  "authors": [
+    "Caleb Tutty <caleb.tutty@nzherald.co.nz>"
+  ],
+  "description": "New Zealand General Electorate data as GeoJSON",
+  "keywords": [
+    "geojson",
+    "new zealand",
+    "census"
+  ],
+  "license": "Creative Commons Attribution 3.0 New Zealand",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
